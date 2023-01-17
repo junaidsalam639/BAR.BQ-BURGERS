@@ -1,0 +1,37 @@
+
+
+
+li{
+    font-size: larger;
+    text-transform: capitalize;
+    color: gold;
+    
+
+}
+h1{
+    text-align: center;
+    background-color: red;
+    text-transform: capitalize;
+    border-radius: 20px;
+}
+td{
+    text-decoration: none;
+    font-size: 30px;
+    text-transform: capitalize;
+    background-color: darkred;
+}
+body{
+    font-family: sans-serif;
+    /* background-color: chartreuse; */
+    background-image: url(https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141353.jpg?w=2000);
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    background-color: black;
+    color: red;
+}
